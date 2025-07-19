@@ -1,4 +1,3 @@
-# ALX Travel App
 Here's a well-structured `README.md` for your **`alx_travel_app_0x00`** Django project, tailored to match your tasks:
 
 ---
